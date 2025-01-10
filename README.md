@@ -6,8 +6,7 @@
 
 
 | ![Sthushan's github stats](https://github-readme-stats.vercel.app/api?username=Sthushan&show_icons=true&theme=tokyonight) | ![Sthushan GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sthushan&theme=tokyonight) |
-| --- | --- |
-username=Sthushan&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) 
+kyonight) 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sthushan" alt="sthushan" /></a> </p>
 
